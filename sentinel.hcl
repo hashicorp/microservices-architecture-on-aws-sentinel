@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2022, 2026
+
 module "tfplan-helpers" {
   source = "./tfplan-helpers.sentinel"
 }
